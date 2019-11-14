@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Divya Shah
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Fellow in Robot Design
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Genoa
+  url: ""
+
+- name: Italian Institute of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include mechanism design, kinematics and parallel robots.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Mechanism Theory
+- Computer-Aided Design
+- Parallel Kinematics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Bioengineering and Robotics
+    institution: University of Genoa
+    year: 2021
+  - course: Erasmus+ European Masters on advanced Robotics
+    institution: University of Genoa and Ecole Centrale de Nantes
+    year: 2017
+  - course: BTech in Mechanical Engineering
+    institution: Mumbai University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,13 +50,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/divyashah_2801
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.it/citations?user=tH0ENfsAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/divyashah
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -62,7 +65,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -70,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Divya Shah received his B. Tech degree in mechanical engineering from Mumbai University, India in 2015. He then graduated from the Erasmus+ European Masters on Advanced Robotics (EMARO+) both from the Universit\`{a} degli Studi di Genova, Italy and \'{E}cole Centrale de Nantes, France in 2017. For his graduate thesis, he worked on CAD design and optimization of a redundant robotics workcell for automated fiber placement process.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Currently, he is finishing up his PhD with Universit\`{a} degli Studi di Genova and in affiliation with iCub Tech at the Istituto Italiano di Tecnologia (IIT), Italy. His research focuses on kinematics, parallel robots, mechanism design mainly for dexterous manipulation for humanoids.
