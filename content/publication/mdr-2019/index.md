@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Multidisciplinary Digital Publishing Institute (MDPI) Journal of Robotics* vol. 8(1), 11"
-publication_short: "MDR"
+publication_short: "MDR19"
 
 abstract: This article provides a detailed comparative analysis of five orientational, two degrees of freedom (DOF), mechanisms whose envisioned application is the wrist of the iCub humanoid robot. Firstly, the current iCub mk.2 wrist implementation is presented and the desired design objectives are proposed. Prominent architectures from literature such as the spherical five-bar linkage and spherical six-bar linkage, the OmniWrist-III and the Quaternion joint mechanisms are modelled and analyzed for the said application. Finally a detailed comparison of their workspace features is presented. The Quaternion joint mechanism emerges as a promising candidate from this study.
 
@@ -32,8 +32,8 @@ tags:
 - computer-aided design
 featured: true
 
-# links:
-# - name: ""
+links:
+ - name: Custom Link
    url: "https://www.mdpi.com/2218-6581/8/1/11"
 url_pdf: "https://www.mdpi.com/2218-6581/8/1/11/pdf"
 url_code: ''
@@ -56,7 +56,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: internal-project
+projects: phd-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
