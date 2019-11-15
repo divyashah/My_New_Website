@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In DISRUPTIVE INNOVATION IN MECHANICAL ENGINEERING FOR INDUSTRY COMPETITIVENESS: Proceedings of the *3rd International Conference on Mechanical Engineering (ICOME 2017)*
+publication: In DISRUPTIVE INNOVATION IN MECHANICAL ENGINEERING FOR INDUSTRY COMPETITIVENES, Proceedings of the *3rd International Conference on Mechanical Engineering (ICOME 2017)*
 publication_short: In *ICOME17*
 
 abstract: This paper proposes a comprehensive methodology for the computer-aided design and optimization of a robotic workcell for the automated fiber placement. The robotic cell, comprising of a 6-axis industrial manipulator and an actuated positioner, is kinematically redundant with respect to the considered task. An efficient optimization technique for managing these kinematic redundancies is proposed. The robot/positioner motion planning and robotic cell layout design in a CAD environment are presented. To confirm validity of the developed methodology, experimental results are presented that deal with automation of thermoplastic fiber placement process.
