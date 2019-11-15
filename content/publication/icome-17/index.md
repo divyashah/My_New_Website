@@ -1,11 +1,13 @@
 ---
-title: "Workspace Analysis and the Effect of Geometric Parameters on Parallel Mechanisms of the N-UU Class"
+title: "Computer-Aided Design and Optimization of a Redundant Robotic System for Automated Fiber Placement Process"
 authors:
 - admin
-- Giorgio Metta
-- Alberto Parmiggiani
-date: "2018-08-25T00:00:00Z"
-doi: "10.1115/DETC2018-85258"
+- Jiuchun Gao
+- Anatol Pashkevich
+- Stéphane Caro
+- Benoît Courtemanche
+date: "2017-10-04T00:00:00Z"
+doi: "10.1063/1.5046258"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,22 +19,21 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *42nd Mechanisms and Robotics Conference* vol. 5A at ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE) 2018
-publication_short: In *IDETC18*
+publication: In DISRUPTIVE INNOVATION IN MECHANICAL ENGINEERING FOR INDUSTRY COMPETITIVENESS: Proceedings of the *3rd International Conference on Mechanical Engineering (ICOME 2017)*
+publication_short: In *ICOME17*
 
-abstract: N-UU class mechanisms, exemplified by the Omni-Wrist III, are compact parallel kinematic mechanisms (PKM) with large singularity free workspaces. These characteristics make them ideal for applications in robot wrists. This article presents the detailed kinematic and workspace analysis for four N-UU class mechanisms. More in detail, the equations defining the mechanism’s moving platform kinematics are derived as a function of the motion of the input links; these are then used to explore the mechanism’s workspace. These results are furthermore validated by comparing them to the results obtained from CAD-based simulations. The analyses suggests that the workspace of the mechanism is non-uniform, with a “warping” behaviour that occurs in an asymmetric fashion in a specific region of the workspace. Furthermore we show how the rotation of the input links, which mainly actuates the yaw and pitch angles of the mechanism, also causes unwanted coupled rotations along the roll axis.
+abstract: This paper proposes a comprehensive methodology for the computer-aided design and optimization of a robotic workcell for the automated fiber placement. The robotic cell, comprising of a 6-axis industrial manipulator and an actuated positioner, is kinematically redundant with respect to the considered task. An efficient optimization technique for managing these kinematic redundancies is proposed. The robot/positioner motion planning and robotic cell layout design in a CAD environment are presented. To confirm validity of the developed methodology, experimental results are presented that deal with automation of thermoplastic fiber placement process.
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- parallel kinematic mechanisms
 - computer-aided design
 featured: true
 
 links:
 - name: Custom Link
-  url: "http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2713440"
+  url: "https://aip.scitation.org/doi/abs/10.1063/1.5046258"
 url_pdf: '#'
 url_code: '#'
 url_dataset: '#'
@@ -54,8 +55,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

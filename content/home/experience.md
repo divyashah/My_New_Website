@@ -18,27 +18,36 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "PhD Student Fellow"
+  company = "iCub Tech at IIT"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Genova, Italy"
+  date_start = "2017-11-01"
   date_end = ""
-  description = """
+  description = """Concept design and development of a new wrist for the iCub humanoid for dexterous manipulation.
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
+  * Mechanism Theory
+  * CAD Modelling
+  * Prototyping
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Visiting Researcher"
+  company = "IRIM Lab at KOREATECH"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Cheonan, South Korea"
+  date_start = "2019-07-29"
+  date_end = "2019-10-20"
+  description = """Concept design and prototyping for tendon decoupling mechanism for pronation/supination joint."""
+
+[[experience]]
+  title = "Master Thesis Intern"
+  company = "CETIM"
+  company_url = ""
+  location = "Nantes, France"
+  date_start = "2017-02-01"
+  date_end = "2017-08-31"
+  description = """Computer-aided design and optimization of a redundant robotic workcell for automated fiber placement process."""
 
 +++

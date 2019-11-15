@@ -1,11 +1,11 @@
 ---
-title: "Workspace Analysis and the Effect of Geometric Parameters on Parallel Mechanisms of the N-UU Class"
+title: "Comparison of Workspace Analysis for Different Spherical Parallel Mechanisms"
 authors:
 - admin
 - Giorgio Metta
 - Alberto Parmiggiani
-date: "2018-08-25T00:00:00Z"
-doi: "10.1115/DETC2018-85258"
+date: "2018-09-11T00:00:00Z"
+doi: "10.1007/978-3-030-00365-4_23"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -14,13 +14,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *42nd Mechanisms and Robotics Conference* vol. 5A at ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE) 2018
-publication_short: In *IDETC18*
+publication: In Springer Series on Mechanism and Machine Science, vol. 66 for *IFToMM Symposium on Mechanism Design for Robots (MEDER)*
+publication_short: In *MEDER18*
 
-abstract: N-UU class mechanisms, exemplified by the Omni-Wrist III, are compact parallel kinematic mechanisms (PKM) with large singularity free workspaces. These characteristics make them ideal for applications in robot wrists. This article presents the detailed kinematic and workspace analysis for four N-UU class mechanisms. More in detail, the equations defining the mechanism’s moving platform kinematics are derived as a function of the motion of the input links; these are then used to explore the mechanism’s workspace. These results are furthermore validated by comparing them to the results obtained from CAD-based simulations. The analyses suggests that the workspace of the mechanism is non-uniform, with a “warping” behaviour that occurs in an asymmetric fashion in a specific region of the workspace. Furthermore we show how the rotation of the input links, which mainly actuates the yaw and pitch angles of the mechanism, also causes unwanted coupled rotations along the roll axis.
+abstract: In order to reduce the share of the motive power required to drive the robot's links, with the aim of increasing its payload-to- weight ratio, this article studies the best way to relocate the actuators (inertial load) but not complicate the joint kinematics. For this, several Parallel Kinematic Mechanisms (PKMs) were considered, namely a 4-UU mechanism, a spherical 5-bar mechanism and a spherical 6-bar mechanism, with gimbal-like rotations. Computer-Aided Design (CAD) modelling and simulations exploring the workspaces for each of these mechanisms was performed. The complete workspace and isotropy analyses comparing these mechanisms to a gimbal system are presented. The general observations suggest that these mechanisms posses a non-uniform workspace with a "warping" behaviour. However, the spherical six bar mechanism proves to be the best solution so far with isotropy nearly >= 0.9 throughout its workspace.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -28,11 +28,11 @@ summary:
 tags:
 - parallel kinematic mechanisms
 - computer-aided design
-featured: true
+featured: false
 
 links:
 - name: Custom Link
-  url: "http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2713440"
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-00365-4_23"
 url_pdf: '#'
 url_code: '#'
 url_dataset: '#'

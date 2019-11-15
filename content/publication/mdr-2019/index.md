@@ -6,8 +6,8 @@ authors:
 - Alessandro Scalzo
 - Giorgio Metta
 - Alberto Parmiggiani
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2019-02-11T00:00:00Z"
+doi: "10.3390/robotics8010011"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,22 +19,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*MDPI Journal of Robotics* (1)"
+publication: "*Multidisciplinary Digital Publishing Institute (MDPI) Journal of Robotics* vol. 8(1), 11"
 publication_short: "MDR"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This article provides a detailed comparative analysis of five orientational, two degrees of freedom (DOF), mechanisms whose envisioned application is the wrist of the iCub humanoid robot. Firstly, the current iCub mk.2 wrist implementation is presented and the desired design objectives are proposed. Prominent architectures from literature such as the spherical five-bar linkage and spherical six-bar linkage, the OmniWrist-III and the Quaternion joint mechanisms are modelled and analyzed for the said application. Finally a detailed comparison of their workspace features is presented. The Quaternion joint mechanism emerges as a promising candidate from this study.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:
 
 tags:
-- Source Themes
-featured: false
+- parallel kinematic mechanisms
+- computer-aided design
+featured: true
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: http://arxiv.org
+   url: "https://www.mdpi.com/2218-6581/8/1/11"
+url_pdf: "https://www.mdpi.com/2218-6581/8/1/11/pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -55,7 +56,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
