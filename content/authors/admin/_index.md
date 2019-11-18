@@ -81,4 +81,4 @@ user_groups:
 
 Divya Shah received his B. Tech degree in mechanical engineering from Mumbai University, India in 2015. He then graduated from the Erasmus+ European Masters on Advanced Robotics (EMARO+) both from the Università degli Studi di Genova, Italy and École Centrale de Nantes, France in 2017. For his graduate thesis, he worked on CAD design and optimization of a redundant robotics workcell for automated fiber placement process.
 
-Currently, he is finishing up his PhD with Università degli Studi di Genova and in affiliation with iCub Tech at the Istituto Italiano di Tecnologia (IIT), Italy. His research focuses on kinematics, parallel robots, mechanism design mainly for dexterous manipulation for humanoids.
+Currently, he is finishing up his PhD with Università degli Studi di Genova and in affiliation with iCub Tech at the Istituto Italiano di Tecnologia (IIT), Italy. His research focuses on mechanism design, kinematics, parallel robots and tendon-driven mechanisms aiming for dexterous manipulation for humanoids.
