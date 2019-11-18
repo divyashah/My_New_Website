@@ -19,8 +19,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In DISRUPTIVE INNOVATION IN MECHANICAL ENGINEERING FOR INDUSTRY COMPETITIVENES, Proceedings of the *3rd International Conference on Mechanical Engineering (ICOME 2017)*
-publication_short: In *ICOME17*
+publication: DISRUPTIVE INNOVATION IN MECHANICAL ENGINEERING FOR INDUSTRY COMPETITIVENES, Proceedings of the *3rd International Conference on Mechanical Engineering (ICOME 2017)*
+publication_short: "ICOME"
 
 abstract: This paper proposes a comprehensive methodology for the computer-aided design and optimization of a robotic workcell for the automated fiber placement. The robotic cell, comprising of a 6-axis industrial manipulator and an actuated positioner, is kinematically redundant with respect to the considered task. An efficient optimization technique for managing these kinematic redundancies is proposed. The robot/positioner motion planning and robotic cell layout design in a CAD environment are presented. To confirm validity of the developed methodology, experimental results are presented that deal with automation of thermoplastic fiber placement process.
 
@@ -32,21 +32,23 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: Web
   url: "https://aip.scitation.org/doi/abs/10.1063/1.5046258"
-url_pdf: '#'
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+- name: Conf
+  url: "https://elib.its.ac.id/conf/icome/" 
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Workcell CAD'
   focal_point: ""
   preview_only: false
 

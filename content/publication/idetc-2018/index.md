@@ -17,8 +17,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *42nd Mechanisms and Robotics Conference* vol. 5A at ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE) 2018
-publication_short: In *IDETC18*
+publication: "*42nd Mechanisms and Robotics Conference* vol. 5A at ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE) 2018"
+publication_short: ASME IDETC
 
 abstract: N-UU class mechanisms, exemplified by the Omni-Wrist III, are compact parallel kinematic mechanisms (PKM) with large singularity free workspaces. These characteristics make them ideal for applications in robot wrists. This article presents the detailed kinematic and workspace analysis for four N-UU class mechanisms. More in detail, the equations defining the mechanism’s moving platform kinematics are derived as a function of the motion of the input links; these are then used to explore the mechanism’s workspace. These results are furthermore validated by comparing them to the results obtained from CAD-based simulations. The analyses suggests that the workspace of the mechanism is non-uniform, with a “warping” behaviour that occurs in an asymmetric fashion in a specific region of the workspace. Furthermore we show how the rotation of the input links, which mainly actuates the yaw and pitch angles of the mechanism, also causes unwanted coupled rotations along the roll axis.
 
@@ -31,21 +31,23 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: Web
   url: "http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2713440"
-url_pdf: '#'
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+- name: Conf
+  url: "https://archive.asme.org/events/idetccie2018"
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: '4-UU Mechanism'
   focal_point: ""
   preview_only: false
 
