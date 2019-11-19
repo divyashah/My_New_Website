@@ -32,13 +32,19 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+### Robot Design for Dexterous Manipulation.
 
 This research project is a part of the Ph.D. with Dipartimento di Informatica, Bioingegneria, Robtoica e Ingegneria dei Sistemi ([DIBRIS](http://phd.dibris.unige.it/biorob/)) at the Università degli Studi di Genova and in affiliation with the [iCub Tech](https://www.iit.it/research/lines/icub) at the Istituto Italiano di Tecnologia in Genova, Italy. The Ph.D. thesis is aimed towards design and development of a new wrist for the iCub humanoid for dexterous manipulation. The main focus here is the study and implementation of parallel kinematic mechanisms.
 
-The general objectives for the project are as follows:
+#### Objectives
 
 - To study and investigate the state-of-the-art in design for wrist dexterity.
 - To adapt and analyze some of the most promising architectures from the literature.
 - To propose a novel kinematic design for the wrist with improved dexterity.
 - To test and develop the proposed mechanism.
 - To integrate the new wrist on the iCub platform.
+
+#### Supervisors
+
+- **Alberto Parmiggiani**; Technologist & Facility Coordinator, Istituto Italiano di Tecnologia
+- **Giorgio Metta**; Scientific Director, Istituto Italiano di Tecnologia
