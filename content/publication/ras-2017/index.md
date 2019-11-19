@@ -28,6 +28,7 @@ abstract: "Bimanual gestures are of the utmost importance for the study of motor
 summary:
 
 tags:
+- software architecture
 
 featured: false
 

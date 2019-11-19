@@ -29,13 +29,15 @@ summary:
 
 tags:
 - computer-aided design
+- kinematic redundancy
+- trajectory planning
 featured: true
 
 links:
 - name: Web
   url: "https://aip.scitation.org/doi/abs/10.1063/1.5046258"
 - name: Conf
-  url: "https://elib.its.ac.id/conf/icome/" 
+  url: "https://elib.its.ac.id/conf/icome/"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -57,7 +59,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+  - master-thesis
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

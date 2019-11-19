@@ -15,10 +15,10 @@ role: PhD Fellow in Robot Design
 # Organizations/Affiliations
 organizations:
 - name: University of Genoa
-  url: ""
+  url: "https://www.dibris.unige.it/en/shah-divya-haresh"
 
 - name: Italian Institute of Technology
-  url: ""
+  url: "https://iit.it/people/divya-shah"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include mechanism design, kinematics and parallel robots.
@@ -31,10 +31,10 @@ interests:
 education:
   courses:
   - course: Ph.D. in Bioengineering and Robotics
-    institution: University of Genoa
+    institution: Università degli Studi di Genova
     year: 2021
   - course: M.Sc. with Erasmus+ European Masters on Advanced Robotics (EMARO+)
-    institution: University of Genoa and Ecole Centrale de Nantes
+    institution: Università degli Studi di Genova and Ecole Centrale de Nantes
     year: 2017
   - course: B.Tech. in Mechanical Engineering
     institution: Mumbai University
@@ -79,6 +79,6 @@ user_groups:
 - Visitors
 ---
 
-Divya Shah received his B. Tech degree in mechanical engineering from Mumbai University, India in 2015. He then graduated from the Erasmus+ European Masters on Advanced Robotics (EMARO+) both from the Università degli Studi di Genova, Italy and École Centrale de Nantes, France in 2017. For his graduate thesis, he worked on CAD design and optimization of a redundant robotics workcell for automated fiber placement process.
+Divya Shah received his B. Tech degree in mechanical engineering from Mumbai University, India in 2015. He then graduated from the Erasmus+ European Masters on Advanced Robotics ([EMARO+](http://masteremaro.irccyn.ec-nantes.fr/index.php/welcome)) both from the Università degli Studi di Genova, Italy and École Centrale de Nantes, France in 2017. For his graduate thesis, he worked on CAD design and optimization of a redundant robotics workcell for automated fiber placement process.
 
-Currently, he is finishing up his PhD with Università degli Studi di Genova and in affiliation with iCub Tech at the Istituto Italiano di Tecnologia (IIT), Italy. His research focuses on mechanism design, kinematics, parallel robots and tendon-driven mechanisms aiming for dexterous manipulation for humanoids.
+Currently, he is a PhD student with Dipartimento di Informatica, Bioingegneria, Robtoica e Ingegneria dei Sistemi (DIBRIS) at Università degli Studi di Genova and in affiliation with iCub Tech at the Istituto Italiano di Tecnologia (IIT), Italy. His research focuses on mechanism design, kinematics, parallel robots and tendon-driven mechanisms aiming for dexterous manipulation for humanoids.
