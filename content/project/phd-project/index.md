@@ -46,5 +46,5 @@ This research project is a part of the Ph.D. with Dipartimento di Informatica, B
 
 #### Supervisors
 
-- **Alberto Parmiggiani**; Technologist & Facility Coordinator, Istituto Italiano di Tecnologia
-- **Giorgio Metta**; Scientific Director, Istituto Italiano di Tecnologia
+- [**Alberto Parmiggiani**]({{<ref "../authors/alberto-parmiggiani/" >}}); Technologist & Facility Coordinator, Istituto Italiano di Tecnologia
+- [**Giorgio Metta**]({{<ref "../authors/giorgio-metta/" >}}); Scientific Director, Istituto Italiano di Tecnologia

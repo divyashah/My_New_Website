@@ -33,10 +33,17 @@ url_video: ""
 slides: ""
 ---
 
-
 ## Design of Pronation-Supination Joint with Tendon Decoupling
 
 This is a draft project page for the FPS design and prototyping project done in collaboration with the Interactive Robotics and Innovative Mechanism ([IRIM](https://www.youtube.com/channel/UCj1NluENvVHth1V74dohlcw)) Lab at Korea University of Technology and Education ([KOREATECH](https://www.koreatech.ac.kr/eng.do)).
+
+| Category| Details|
+|--- | --- |
+| Lab | IRIM |
+| Prof. | Yong-Jae Kim |
+| University | KOREATECH |
+| Location | Cheonan, South Korea |
+| Duration| 29.07.19 - 20.10.19 |
 
 #### Supervisors
 

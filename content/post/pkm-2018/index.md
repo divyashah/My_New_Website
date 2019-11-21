@@ -1,15 +1,15 @@
 ---
-title: 'Parallel Kinematic Manipulators'
-subtitle: 'Summer School on PKMS organized by LIRMM/LS2N'
-summary: Create a beautifully simple website in under 10 minutes.
+title: 'Parallel Kinematic Machines'
+subtitle: 'Summer School - 2018'
+summary: 'Summer School on PKMs organized by LIRMM/LS2N'
 authors:
 - admin
 tags:
 - parallel kinematic mechanisms
 categories:
 -
-date: "2019-07-29T00:00:00Z"
-lastmod: "2019-10-20T00:00:00Z"
+date: "2018-09-16T00:00:00Z"
+lastmod: "2018-09-24T00:00:00Z"
 featured: true
 draft: false
 
@@ -31,10 +31,25 @@ image:
 projects: []
 ---
 
+### Summer School on Parallel Kinematic Machines
 
-### Summer School on Parallel Kinematic Manipulators
+The goal of the summer school [PKM 2018](http://www.lirmm.fr/pkm-2018/index.html) was to share the knowledge on parallel kinematics machines (PKM) during a whole week, targeting realistic prototypes to face real problems met in the industry.
 
-This is a draft blog post about the experience in [PKM](http://www.lirmm.fr/pkm-2018/index.html) summer school in La Grande Motte, France.  
+Various lectures and simulation labs were conducted covering the topics of design, kinematics, dynamics, control strategies, visual servoing for the PKMs with a special focus on cable-driven parallel robots.
+
+All the student participants were asked to present their related research problems through posters and further share and discuss the solutions toward the same.
 
 The poster presented at the summer school can be downloaded from the following link:
 {{% staticref "files/pkm-2018.pdf" "newtab" %}} PKM-18 Poster {{% /staticref %}}
+
+---
+
+#### Organized by:
+
+- Laboratoire d'Informatique, de Robotique et de Microélectronique de Montpellier ([LIRMM](http://www.lirmm.fr/))
+- Laboratoire des Sciences du Numérique de Nantes ([LS2N](https://www.ls2n.fr/))
+
+
+#### Location:
+
+Belambra Club in La Grande-Motte, Montpellier, *France*

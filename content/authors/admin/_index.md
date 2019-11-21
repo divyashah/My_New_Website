@@ -27,7 +27,7 @@ interests:
 - Mechanism Theory
 - Computer-Aided Design
 - Parallel Kinematics
-- Tendon-driven Mechanisms
+- Tendon-Driven Mechanisms
 
 education:
   courses:

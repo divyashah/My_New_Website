@@ -43,6 +43,6 @@ The industry had an automated tape winding system with a 6-DOF industrial robot 
 
 #### Supervisors:
 
-- **Stéphane Caro**; Researcher, Centre National de la Recherche Scientifique ([CNRS](http://www.cnrs.fr/))
-- **Anatol Pashkevich**; Asso. Prof., Institut Mines-Telecom Atlantique
-- **Benoît Courtemanche**, Engineer, Centre Technique des Industries Mécaniques
+- [**Stéphane Caro**]({{<ref "../authors/stephane-caro/" >}}); Researcher, Centre National de la Recherche Scientifique ([CNRS](http://www.cnrs.fr/))
+- [**Anatol Pashkevich**]({{<ref "../authors/anatol-pashkevich/" >}}); Asso. Prof., Institut Mines-Telecom Atlantique
+- [**Benoît Courtemanche**]({{<ref "../authors/benoit-courtemanche/" >}}), Engineer, Centre Technique des Industries Mécaniques

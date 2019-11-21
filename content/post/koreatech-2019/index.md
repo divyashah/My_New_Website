@@ -1,7 +1,7 @@
 ---
 title: 'Period Abroad'
 subtitle: 'IRIM LAB @ KOREATECH'
-summary: Create a beautifully simple website in under 10 minutes.
+summary: Short period of collaborative research on tendon-driven mechanism.
 authors:
 - admin
 tags:
@@ -9,7 +9,7 @@ tags:
 categories:
 - []
 date: "2019-07-29T00:00:00Z"
-lastmod: "2019-10-20T00:00:00Z"
+lastmod: "2019-10-21T00:00:00Z"
 featured: true
 draft: false
 
