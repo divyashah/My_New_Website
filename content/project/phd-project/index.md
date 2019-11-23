@@ -44,6 +44,8 @@ This research project is a part of the Ph.D. with Dipartimento di Informatica, B
 - To test and develop the proposed mechanism.
 - To integrate the new wrist on the iCub platform.
 
+---
+
 #### Supervisors
 
 - [**Alberto Parmiggiani**]({{<ref "../authors/alberto-parmiggiani/" >}}); Technologist & Facility Coordinator, Istituto Italiano di Tecnologia

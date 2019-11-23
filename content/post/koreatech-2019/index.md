@@ -11,7 +11,7 @@ categories:
 date: "2019-07-29T00:00:00Z"
 lastmod: "2019-10-21T00:00:00Z"
 featured: true
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

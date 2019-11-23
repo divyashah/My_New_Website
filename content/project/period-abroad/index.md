@@ -45,6 +45,9 @@ This is a draft project page for the FPS design and prototyping project done in 
 | Location | Cheonan, South Korea |
 | Duration| 29.07.19 - 20.10.19 |
 
+{{< figure src="irim-lab.jpg" title="Me with the IRIM Lab members" lightbox="true" >}}
+
+--- 
 #### Supervisors
 
 - **Yong-Jae Kim**; Associate Professor, IRIM Lab @ KOREATECH

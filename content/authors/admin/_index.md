@@ -29,6 +29,7 @@ interests:
 - Parallel Kinematics
 - Tendon-Driven Mechanisms
 
+
 education:
   courses:
   - course: Ph.D. in Bioengineering and Robotics

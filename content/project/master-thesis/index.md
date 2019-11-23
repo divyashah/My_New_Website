@@ -20,9 +20,11 @@ links:
 #  name: Follow
 #  url: https://twitter.com
 url_code: ""
-url_pdf: ""
-url_slides: ""
+url_pdf: "master-thesis.pdf"
+url_slides: "slides.pdf"
 url_video: ""
+url_poster: "poster.pdf"
+
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -40,6 +42,14 @@ This was the master thesis project during the graduate study with
 The project was in collaboration with Centre Technique des Industries Mécaniques ([CETIM](https://www.cetim.fr/Le-Cetim/Implantations/Sites/Nantes)) and Institut Mines-Telecom Atlantique ([IMT-A](https://www.imt-atlantique.fr/fr)).
 
 The industry had an automated tape winding system with a 6-DOF industrial robot and a 2-DOF positioner for the workpiece. The system was kinematically redundant. The thesis involved CAD design, simulation and collision detection for the workcell and implementing optimal trajectories by solving the kinematic redundancy, aiming towards increasing the overall productivity of the system.
+
+The detailed thesis documentation can be downloaded from the following links:
+
+- {{% staticref "master-thesis.pdf" "newtab" %}} Master Thesis {{% /staticref %}}
+- {{% staticref "poster.pdf" "newtab" %}} Thesis Poster {{% /staticref %}}
+- {{% staticref "slides.pdf" "newtab" %}} Defence Presentation {{% /staticref %}}
+
+---
 
 #### Supervisors:
 

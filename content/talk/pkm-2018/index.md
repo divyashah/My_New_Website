@@ -1,54 +1,57 @@
 ---
-title: Poster presentation
-event: Summer School on Parallel Kinematic Manipulators 2018
-event_url: https://example.org
+title: Summer School PKM 2018
+event: 2nd Summer School on Parallel Kinematic Manipulators 2018
+event_url: http://www.lirmm.fr/pkm-2018/index.html
 
-location: LIRMM
+location: Montpellier, France
 address:
   street:
-  city: Montpelier
+  city: ''
   region:
   postcode: ''
-  country: France
+  country: ''
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Poster presentation on robot design for dexterous manipulation.
+abstract: "The goal of this summer school was to share the knowledge on parallel kinematics manipulators (PKM) during a whole week, targeting realistic prototypes to face real problems met in the industry. Various lectures and simulation labs were conducted covering the topics of design, kinematics, dynamics, control strategies, visual servoing for the PKMs with a special focus on cable-driven parallel robots. All the student participants were asked to present their related research problems through posters and further share and discuss the solutions toward the same."
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2018-09-17T13:00:00Z"
-#date_end: "2030-06-01T15:00:00Z"
+date_end: "2018-09-21T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: []
+tags:
+- parallel kinematic mechanisms
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'PKM 2018'
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+url_poster: 'pkm-poster.pdf'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -56,20 +59,20 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- internal-project
+- phd-project
 
 # Enable math on this page?
 math: true
+
+# {{% staticref "files/pkm-2018.pdf" "newtab" %}} PKM-18 Poster {{% /staticref %}}
 ---
 
+#### Organized by:
+
+- Laboratoire d'Informatique, de Robotique et de Microélectronique de Montpellier ([LIRMM](http://www.lirmm.fr/))
+- Laboratoire des Sciences du Numérique de Nantes ([LS2N](https://www.ls2n.fr/))
+
+---
 {{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+Click on the **Poster** button above to download the poster presented at the summer school.
 {{% /alert %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
