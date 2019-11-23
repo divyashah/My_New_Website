@@ -16,3 +16,5 @@
 - [ ] update bios and add motivation for robotics
 
 - [ ] add project about robocon
+
+- [ ] improve/organize tags 
