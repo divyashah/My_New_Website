@@ -82,8 +82,8 @@ draft: false
 
 #### Organized by:
 
-- International Federation for the Promotion of Mechanism and Machine Science ([IFToMM](http://iftomm.net/))
-- Faculty of Science and Technology, Free University of Bolzano ([UniBz](https://www.unibz.it/en/faculties/sciencetechnology/)), Italy
+- [International Federation for the Promotion of Mechanism and Machine Science (IFToMM)](http://iftomm.net/)
+- Faculty of Science and Technology, [Free University of Bolzano (UniBz)](https://www.unibz.it/en/faculties/sciencetechnology/), Italy
 
 
 ---
