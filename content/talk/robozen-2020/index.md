@@ -1,9 +1,9 @@
 ---
-title: Summer School PKM 2018
-event: 2nd Summer School on Parallel Kinematic Manipulators 2018
-event_url: http://www.lirmm.fr/pkm-2018/index.html
+title: Winter School ROBOzen 2020
+event: International Winter School on Mechanism Design and Motion Planning for Robotics
+event_url: https://robozen2020.events.unibz.it/
 
-location: Montpellier, France
+location: Bolzano, Italy
 address:
   street:
   city: ''
@@ -12,13 +12,22 @@ address:
   country: ''
 
 summary: Poster presentation on robot design for dexterous manipulation.
-abstract: "The goal of this summer school was to share the knowledge on parallel kinematics manipulators (PKM) during a whole week, targeting realistic prototypes to face real problems met in the industry. Various lectures and simulation labs were conducted covering the topics of design, kinematics, dynamics, control strategies, visual servoing for the PKMs with a special focus on cable-driven parallel robots. All the student participants were asked to present their related research problems through posters and further share and discuss the solutions toward the same."
+abstract: "More details to follow ..."
+
+#"ROBOzen is oriented to PhD students, young researchers and specialists working in the design of mechanisms and motion planning techniques for robotic and related mechatronic applications.
+#International and Italian experts will give lectures in the following topics:
+#– Compliant and flexible mechanisms for robotics
+#– Parallel and Cable-driven mechanisms for robotics
+#– Trajectory planning for robotics
+#– Collaborative robots
+#– Mobile robots
+#All the student participants were asked to present their related research problems through posters and further share and discuss the solutions toward the same."
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-09-17T13:00:00Z"
-date_end: "2018-09-21T15:00:00Z"
+date: "2020-01-27T13:00:00Z"
+date_end: "2020-01-31T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -32,7 +41,7 @@ tags:
 featured: false
 
 image:
-  caption: 'PKM 2018'
+  caption: 'ROBOzen 2020'
   focal_point: Right
 
 links:
@@ -44,7 +53,7 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-url_poster: 'pkm-poster.pdf'
+url_poster: "" #'pkm-poster.pdf'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -64,15 +73,17 @@ projects:
 # Enable math on this page?
 math: true
 
+draft: false
 # {{% staticref "files/pkm-2018.pdf" "newtab" %}} PKM-18 Poster {{% /staticref %}}
+# {{% alert note %}}
+# Click on the **Poster** button above to download the poster presented at the summer school.
+# {{% /alert %}}
 ---
 
 #### Organized by:
 
-- [Laboratoire d'Informatique, de Robotique et de Microélectronique de Montpellier (LIRMM)](http://www.lirmm.fr/)
-- [Laboratoire des Sciences du Numérique de Nantes (LS2N)](https://www.ls2n.fr/)
+- International Federation for the Promotion of Mechanism and Machine Science ([IFToMM](http://iftomm.net/))
+- Faculty of Science and Technology, Free University of Bolzano ([UniBz](https://www.unibz.it/en/faculties/sciencetechnology/)), Italy
+
 
 ---
-{{% alert note %}}
-Click on the **Poster** button above to download the poster presented at the summer school.
-{{% /alert %}}

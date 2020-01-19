@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "Cheonan, South Korea"
   date_start = "2019-07-29"
   date_end = "2019-10-20"
-  description = """Concept design and prototyping for tendon decoupling mechanism for pronation/supination joint."""
+  description = """Concept design and prototyping for a multiple tendon routing mechanism through 1-DOF pronation/supination joint with full decoupling."""
 
 [[experience]]
   title = "Master Thesis Intern"
@@ -48,6 +48,6 @@ date_format = "Jan 2006"
   location = "Nantes, France"
   date_start = "2017-02-01"
   date_end = "2017-08-31"
-  description = """Computer-aided design and optimization of a redundant robotic workcell for automated fiber placement process."""
+  description = """Computer-aided design and optimization of a redundant robotic workcell for automated fiber placement process, aiming for increased productivity."""
 
 +++

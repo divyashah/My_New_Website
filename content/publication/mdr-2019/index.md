@@ -30,7 +30,7 @@ summary:
 tags:
 - parallel kinematic mechanisms
 - computer-aided design
-- humanoid
+- humanoids
 featured: true
 
 links:
