@@ -12,16 +12,14 @@ address:
   country: ''
 
 summary: Poster presentation on robot design for dexterous manipulation.
-abstract: "More details to follow ..."
-
-#"ROBOzen is oriented to PhD students, young researchers and specialists working in the design of mechanisms and motion planning techniques for robotic and related mechatronic applications.
-#International and Italian experts will give lectures in the following topics:
-#– Compliant and flexible mechanisms for robotics
-#– Parallel and Cable-driven mechanisms for robotics
-#– Trajectory planning for robotics
-#– Collaborative robots
-#– Mobile robots
-#All the student participants were asked to present their related research problems through posters and further share and discuss the solutions toward the same."
+abstract: "ROBOzen was oriented to PhD students, young researchers and specialists working in the design of mechanisms and motion planning techniques for robotic and related mechatronic applications.
+International and Italian experts gave lectures in the following topics:
+– Compliant and flexible mechanisms for robotics
+– Parallel and Cable-driven mechanisms for robotics
+– Trajectory planning for robotics
+– Collaborative robots
+– Mobile robots
+Furthermore, all the student participants were asked to present their related research problems through posters and further share and discuss the solutions toward the same."
 
 
 # Talk start and end times.
@@ -36,6 +34,7 @@ publishDate: "2017-01-01T00:00:00Z"
 authors: []
 tags:
 - parallel kinematic mechanisms
+- trajectory planning
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -53,7 +52,7 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-url_poster: "" #'pkm-poster.pdf'
+url_poster: 'robozen-poster.pdf' #
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -85,5 +84,7 @@ draft: false
 - [International Federation for the Promotion of Mechanism and Machine Science (IFToMM)](http://iftomm.net/)
 - Faculty of Science and Technology, [Free University of Bolzano (UniBz)](https://www.unibz.it/en/faculties/sciencetechnology/), Italy
 
-
 ---
+{{% alert note %}}
+Click on the **Poster** button above to download the poster presented at this winter school.
+{{% /alert %}}

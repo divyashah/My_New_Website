@@ -74,5 +74,5 @@ math: true
 
 ---
 {{% alert note %}}
-Click on the **Poster** button above to download the poster presented at the summer school.
+Click on the **Poster** button above to download the poster presented at this summer school.
 {{% /alert %}}
