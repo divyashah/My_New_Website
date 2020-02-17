@@ -5,6 +5,8 @@ tags:
 - parallel kinematic mechanisms
 - humanoids
 - computer-aided design
+- rapid prototyping
+- optimization techniques
 
 date: "2017-11-01T00:00:00Z"
 
@@ -34,7 +36,7 @@ slides: ""
 ---
 ### Robot Design for Dexterous Manipulation.
 
-This research project is a part of the Ph.D. with [Dipartimento di Informatica, Bioingegneria, Robtoica e Ingegneria dei Sistemi (DIBRIS)](http://phd.dibris.unige.it/biorob/) at the Università degli Studi di Genova and in affiliation with the [iCub Tech](https://www.iit.it/research/lines/icub) at the Istituto Italiano di Tecnologia in Genova, Italy. The Ph.D. thesis is aimed towards design and development of a new wrist for the iCub humanoid for dexterous manipulation. The main focus here is the study and implementation of parallel kinematic mechanisms.
+This research project is a part of the Ph.D. with [Dipartimento di Informatica, Bioingegneria, Robtoica e Ingegneria dei Sistemi (DIBRIS)](http://phd.dibris.unige.it/biorob/) at the Università degli Studi di Genova and in affiliation with the [iCub Tech](https://www.iit.it/research/facilities/icub-tech) at the Istituto Italiano di Tecnologia in Genova, Italy. The Ph.D. thesis is aimed towards design and development of a new wrist for the [iCub humanoid](https://icub.org/) for dexterous manipulation. The main focus here is the study and implementation of parallel orientational mechanisms. 
 
 #### Objectives
 

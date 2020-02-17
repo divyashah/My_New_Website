@@ -20,7 +20,7 @@ organizations:
 - name: University of Genoa
   url: "https://www.dibris.unige.it/en/shah-divya-haresh"
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mechanism design, kinematics and parallel robots.
+bio: My research interests include humanoid robotics, mechanism theory, parallel kinematics and computer-aided design.
 
 interests:
 - Robotics
@@ -28,6 +28,8 @@ interests:
 - Computer-Aided Design
 - Parallel Kinematics
 - Tendon-Driven Mechanisms
+- Rapid Prototyping
+- Optimization Techniques
 
 
 education:
@@ -79,13 +81,18 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
 ---
 
-Divya Shah received his B. Tech degree in mechanical engineering from [Sardar Patel College of Engineering](http://spce.ac.in/) affiliated to the [Mumbai University](http://mu.ac.in/), India in 2015. His active involvement with the [collegiate robotics club](https://www.facebook.com/RoboconSPCE.In/) during his undergrad, aspired him to pursue higher education in robotics which brought him to Europe.  
+I am Indian, born and brought up in Mumbai. I received my B. Tech degree in mechanical engineering from [Sardar Patel College of Engineering](http://spce.ac.in/) affiliated to the [Mumbai University](http://mu.ac.in/) in 2015. My active involvement with the [collegiate robotics club](https://www.facebook.com/RoboconSPCE.In/) during my undergrad, aspired me to pursue higher education in robotics.  
 
-He then, graduated from the [Erasmus+ European Masters on Advanced Robotics (EMARO+)](http://masteremaro.irccyn.ec-nantes.fr/index.php/welcome) with double M.Sc. degrees from the [Università degli Studi di Genova](https://unige.it/), Italy and [École Centrale de Nantes](https://www.ec-nantes.fr/), France in 2017. For his graduate thesis, he worked on CAD design and optimization of a redundant robotics workcell for automated fiber placement process.
+I then moved to Europe and graduated from the [Erasmus+ European Masters on Advanced Robotics (EMARO+)](http://masteremaro.irccyn.ec-nantes.fr/index.php/welcome) with double M.Sc. degrees from the [Università degli Studi di Genova](https://unige.it/), Italy and [École Centrale de Nantes](https://www.ec-nantes.fr/), France in 2017. For my graduate thesis, I worked on CAD design and optimization of a redundant robotics workcell for automated fiber placement process.
 
-Currently, he is a PhD student with [iCub Tech](https://www.iit.it/research/lines/icub) at the Istituto Italiano di Tecnologia (IIT) and the [Dipartimento di Informatica, Bioingegneria, Robtoica e Ingegneria dei Sistemi (DIBRIS)](http://phd.dibris.unige.it/biorob/) at Università degli Studi di Genova, Italy. His research focuses on mechanism design, kinematics, parallel robots and tendon-driven mechanisms aiming for dexterous manipulation for humanoids.
+Currently, I am a third year PhD student with [iCub Tech](https://www.iit.it/research/lines/icub) at the Istituto Italiano di Tecnologia (IIT) and [Dipartimento di Informatica, Bioingegneria, Robtoica e Ingegneria dei Sistemi (DIBRIS)](http://phd.dibris.unige.it/biorob/) at Università degli Studi di Genova, Italy. My research focuses on mechanism design, parallel kinematics and tendon-driven mechanisms aiming for dexterous manipulation for humanoid robots.
+
+My detailed CV is available  {{% staticref "files/cv.pdf" "newtab" %}} here {{% /staticref %}}.
+
+In my spare time, I learn and practice swing dancing!
 
 ---
 

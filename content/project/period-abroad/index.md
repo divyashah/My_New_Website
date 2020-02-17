@@ -6,6 +6,7 @@ tags:
 - humanoids
 - computer-aided design
 - bio-inspired manipulators
+- rapid prototyping
 
 date: "2019-07-21T00:00:00Z"
 #date_end: "2019-10-20T00:00:00Z"

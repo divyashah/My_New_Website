@@ -31,6 +31,7 @@ tags:
 - computer-aided design
 - kinematic redundancy
 - trajectory planning
+- optimization techniques
 featured: true
 
 links:

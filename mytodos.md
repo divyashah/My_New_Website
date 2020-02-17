@@ -1,4 +1,4 @@
-- [ ] add a cv section or pdf
+- [x] add a cv section or pdf
 - [ ] **add more details on the current phd project**
 
 - [ ] for all the download link boxes (poster, slide, pdf, web, etc), add some icons there ...
@@ -7,7 +7,7 @@
 
 - [ ] add project about robocon
 - [ ] add master/graduate course projects
-- [ ] add bachelor thesis project
+- [x] add bachelor thesis project
 
 
 - [ ] update bios and add motivation for robotics
@@ -17,6 +17,8 @@
 - [ ] check how 2nd 3rd generation menus (sub-menus) work ...
 - [ ] discover how to add analytics to the site
 - [ ] improve and update the what's new section ...
+
+- [ ] consider adding the site in italian or other languages 
 
 - [x] Add "Events" section list all the conferences and schools attended
 - [x] gives slides, talks, posters for download here ...
