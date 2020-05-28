@@ -1,6 +1,6 @@
 ---
 title: Period Abroad
-summary: Design of Pronation-Supination Joint with Tendon Decoupling
+summary: Design of Constant Length Tendon Routing Mechanism through Axial Joint
 tags:
 - tendon-driven mechanisms
 - humanoids
@@ -40,15 +40,15 @@ slides: ""
 # {{< figure src="irim-lab.jpg" title="Me with Prof. Kim and the other IRIM Lab members" lightbox="true" >}}
 ---
 
-## Design of Pronation-Supination Joint with Tendon Decoupling
+## Design of Constant Length Tendon Routing Mechanism through Axial Joint
 
-This research project was a part of the period-abroad during the PhD, from July to October 2019. It was achieved in collaboration with the [Interactive Robotics and Innovative Mechanism (IRIM)](https://www.youtube.com/channel/UCj1NluENvVHth1V74dohlcw) Lab at [Korea University of Technology and Education (KOREATECH)](https://www.koreatech.ac.kr/eng.do) in Cheonan, South Korea. The project involved concept design and prototyping for a pronation-supination (forearm) joint mechanism with multiple tendon routings to allow for decoupled motions.
+This research project was a part of the period-abroad during the PhD, from July to October 2019. It was achieved in collaboration with the [Interactive Robotics and Innovative Mechanism (IRIM)](https://www.youtube.com/channel/UCj1NluENvVHth1V74dohlcw) Lab at [Korea University of Technology and Education (KOREATECH)](https://www.koreatech.ac.kr/eng.do) in Cheonan, South Korea. The project involved concept design and prototyping of a constant length tendon routing mechanism through axial joint, or the pronation-supination (forearm) joint per se, for multiple tendons achieving decoupled motions.
 
 {{% alert note %}}
-More details about the project to follow ...
+For more details about the project refer to the conference publication for [IEEE/ASME AIM 2020]({{<ref "../publication/constant-2020/" >}})
 {{% /alert %}}
 
 ---
 #### Supervisors
 
-- **Yong-Jae Kim**; Associate Professor, IRIM Lab @ KOREATECH
+- [**Yong-Jae Kim**]({{<ref "../authors/yong-jae-kim/" >}}); Associate Professor, IRIM Lab @ KOREATECH

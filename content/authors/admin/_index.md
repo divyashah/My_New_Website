@@ -99,7 +99,12 @@ In my spare time, I learn and practice swing dancing!
 ## What's new:
 
 {{% alert note %}}
-Attending the IFToMM [ROBOzen 2020]({{<ref "../../talk/robozen-2020/" >}}) in Bolzano, Italy.
+Manuscript accepted for publication in [IEEE/ASME AIM 2020](http://aim2020.org/).
+
+{{% /alert %}}
+
+{{% alert note %}}
+Attended the IFToMM [ROBOzen 2020]({{<ref "../../talk/robozen-2020/" >}}) in Bolzano, Italy.
 {{% /alert %}}
 
 {{% alert note %}}

@@ -41,7 +41,7 @@ The thesis involved a detailed study of mechanical design, fabrication, kinemati
 
 The detailed thesis documentation can be downloaded from the following links:
 
-- {{% staticref "bachelor-thesis.pdf" "newtab" %}} Bachelor Thesis {{% /staticref %}}
+- {{% staticref "project/bachelor-thesis/bachelor-thesis.pdf" "newtab" %}} Bachelor Thesis {{% /staticref %}}
 
 
 ---

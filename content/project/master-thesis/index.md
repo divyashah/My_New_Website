@@ -47,9 +47,9 @@ The industry had an automated tape winding system with a 6-DOF industrial robot 
 
 The detailed thesis documentation can be downloaded from the following links:
 
-- {{% staticref "master-thesis.pdf" "newtab" %}} Master Thesis {{% /staticref %}}
-- {{% staticref "poster.pdf" "newtab" %}} Thesis Poster {{% /staticref %}}
-- {{% staticref "slides.pdf" "newtab" %}} Defence Presentation {{% /staticref %}}
+- {{% staticref "project/master-thesis/master-thesis.pdf" "newtab" %}} Master Thesis {{% /staticref %}}
+- {{% staticref "project/master-thesis/poster.pdf" "newtab" %}} Thesis Poster {{% /staticref %}}
+- {{% staticref "project/master-thesis/slides.pdf" "newtab" %}} Defence Presentation {{% /staticref %}}
 
 ---
 

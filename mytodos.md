@@ -1,6 +1,7 @@
 #### TO DOs
 
 - [ ] **add more details on the current phd project**
+- [x] *download links in the description of each project are not correct*
 
 - [ ] for all the download link boxes (poster, slide, pdf, web, etc), add some icons there ...
 - [ ] also ensure correct name for each of the links ...
@@ -35,7 +36,7 @@
 > config/_default/config.toml
 > baseurl = "/"
 
-- In command prompt go the website folder and hugo server
+- In command prompt go the website folder and run hugo server
 > ...\Github\My_New_Website> hugo server
 
 - View the site at http://localhost:1313/
@@ -47,6 +48,7 @@
 > baseurl = "https://divyashah.github.io/"
 
 - In command prompt go to website folder and run hugo to generate the site
+> ...\Github\My_New_Website> hugo
 
 - Copy site data from public folder to your host repository
 > ..\Github\My_New_Website\public
