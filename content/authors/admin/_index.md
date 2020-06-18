@@ -82,15 +82,19 @@ user_groups:
 - Researchers
 - Visitors
 
+# {{% alert note %}}
+# Attended the IFToMM [ROBOzen 2020]({{<ref "../../talk/robozen-2020/" >}}) in Bolzano, Italy.
+# {{% /alert %}}
+
 ---
 
 I am Indian, born and brought up in Mumbai. I received my B. Tech degree in mechanical engineering from [Sardar Patel College of Engineering](http://spce.ac.in/) affiliated to the [Mumbai University](http://mu.ac.in/) in 2015. My active involvement with the [collegiate robotics club](https://www.facebook.com/RoboconSPCE.In/) during my undergrad, aspired me to pursue higher education in robotics.  
 
 I then moved to Europe and graduated from the [Erasmus+ European Masters on Advanced Robotics (EMARO+)](http://masteremaro.irccyn.ec-nantes.fr/index.php/welcome) with double M.Sc. degrees from the [Università degli Studi di Genova](https://unige.it/), Italy and [École Centrale de Nantes](https://www.ec-nantes.fr/), France in 2017. For my graduate thesis, I worked on CAD design and optimization of a redundant robotics workcell for automated fiber placement process.
 
-Currently, I am a third year PhD student with [iCub Tech](https://www.iit.it/research/lines/icub) at the Istituto Italiano di Tecnologia (IIT) and [Dipartimento di Informatica, Bioingegneria, Robtoica e Ingegneria dei Sistemi (DIBRIS)](http://phd.dibris.unige.it/biorob/) at Università degli Studi di Genova, Italy. My research focuses on mechanism design, parallel kinematics and tendon-driven mechanisms aiming for dexterous manipulation for humanoid robots.
+Currently, I am a third year PhD student with [iCub Tech](https://www.iit.it/research/lines/icub) at the Istituto Italiano di Tecnologia (IIT) and [Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistemi (DIBRIS)](http://phd.dibris.unige.it/biorob/) at Università degli Studi di Genova, Italy. My research focuses on mechanism design, parallel kinematics and tendon-driven mechanisms aiming for dexterous manipulation for humanoid robots.
 
-My detailed CV is available  {{% staticref "files/cv.pdf" "newtab" %}} here {{% /staticref %}}.
+My detailed CV is available  {{% staticref "files/cv.pdf" "newtab" %}} here{{% /staticref %}}.
 
 In my spare time, I learn and practice swing dancing!
 
@@ -99,16 +103,9 @@ In my spare time, I learn and practice swing dancing!
 ## What's new:
 
 {{% alert note %}}
-Manuscript accepted for publication in [IEEE/ASME AIM 2020](http://aim2020.org/).
+Presenting at [IEEE/ASME AIM]({{<ref "../../publication/constant-2020/" >}}) conference in July, 2020.
 
-{{% /alert %}}
-
-{{% alert note %}}
-Attended the IFToMM [ROBOzen 2020]({{<ref "../../talk/robozen-2020/" >}}) in Bolzano, Italy.
-{{% /alert %}}
-
-{{% alert note %}}
-Returned from the period-abroad with [IRIM Lab at KOREATECH]({{<ref "../../project/period-abroad/" >}}) in Cheonan, South Korea.
+Manuscript on collaborative work with [IRIM Lab at KOREATECH]({{<ref "../../project/period-abroad/" >}}) in press for publication.
 {{% /alert %}}
 
 ---

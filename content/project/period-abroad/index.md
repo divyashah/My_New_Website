@@ -28,7 +28,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "fps_demo.mp4"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -45,7 +45,7 @@ slides: ""
 This research project was a part of the period-abroad during the PhD, from July to October 2019. It was achieved in collaboration with the [Interactive Robotics and Innovative Mechanism (IRIM)](https://www.youtube.com/channel/UCj1NluENvVHth1V74dohlcw) Lab at [Korea University of Technology and Education (KOREATECH)](https://www.koreatech.ac.kr/eng.do) in Cheonan, South Korea. The project involved concept design and prototyping of a constant length tendon routing mechanism through axial joint, or the pronation-supination (forearm) joint per se, for multiple tendons achieving decoupled motions.
 
 {{% alert note %}}
-For more details about the project refer to the conference publication for [IEEE/ASME AIM 2020]({{<ref "../publication/constant-2020/" >}})
+Also refer to the conference publication for [IEEE/ASME AIM 2020]({{<ref "../publication/constant-2020/" >}})
 {{% /alert %}}
 
 ---

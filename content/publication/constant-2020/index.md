@@ -36,7 +36,7 @@ featured: true
 
 links:
 - name: Web
-  url: ''
+  url: '' 
 #- name: Conf
 #  url: "https://archive.asme.org/events/idetccie2018"
 url_pdf: ''
@@ -81,3 +81,7 @@ slides: ""
 
 # Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 ---
+
+{{% alert note %}}
+Also refer to the project [Period-Abroad]({{<ref "../project/period-abroad/" >}})
+{{% /alert %}}
