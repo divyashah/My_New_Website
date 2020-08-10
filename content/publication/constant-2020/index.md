@@ -1,11 +1,11 @@
 ---
-title: "Constant Length Tendon Routing Mechanism through Axial Joint [In Press]"
+title: "Constant Length Tendon Routing Mechanism through Axial Joint"
 authors:
 - admin
 - Alberto Parmiggiani
 - Yong-Jae Kim
 date: "2020-07-07T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1109/AIM43001.2020.9158889"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -36,7 +36,7 @@ featured: true
 
 links:
 - name: Web
-  url: '' 
+  url: 'https://ieeexplore.ieee.org/document/9158889'
 #- name: Conf
 #  url: "https://archive.asme.org/events/idetccie2018"
 url_pdf: ''
@@ -44,7 +44,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'aim-2020-slides.pdf'
 url_source: ''
 url_video: 'aim-2020-video.mp4'
 
@@ -83,5 +83,5 @@ slides: ""
 ---
 
 {{% alert note %}}
-Also refer to the project [Period-Abroad]({{<ref "../project/period-abroad/" >}})
+Also check-out the [Period-Abroad]({{<ref "../project/period-abroad/" >}}) project page.
 {{% /alert %}}

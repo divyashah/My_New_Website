@@ -103,9 +103,7 @@ In my spare time, I learn and practice swing dancing!
 ## What's new:
 
 {{% alert note %}}
-Presenting at [IEEE/ASME AIM]({{<ref "../../publication/constant-2020/" >}}) conference in July, 2020.
-
-Manuscript on collaborative work with [IRIM Lab at KOREATECH]({{<ref "../../project/period-abroad/" >}}) in press for publication.
+Conference Publication for [IEEE/ASME AIM 2020]({{<ref "../../publication/constant-2020/" >}}) regarding the collaborative work with IRIM Lab @ KOREATECH.
 {{% /alert %}}
 
 ---
