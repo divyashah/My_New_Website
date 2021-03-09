@@ -58,9 +58,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Divya_Shah13
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/divyashah-2801/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/divyashah-2801/
 - icon: envelope
   icon_pack: fas
   link: "mailto:divya.shah@iit.it" #'#contact'  # For a direct email link, use "mailto:test@example.org".
