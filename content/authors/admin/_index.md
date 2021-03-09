@@ -49,29 +49,29 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: linkedin
+- icon: github
   icon_pack: fab
-  link: https://www.linkedin.com/in/divyashah-2801/
+  link: https://github.com/divyashah
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.it/citations?user=tH0ENfsAAAAJ&hl=en
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Divya_Shah13
-- icon: github
-  icon_pack: fab
-  link: https://github.com/divyashah
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/divyashah-2801/
 - icon: envelope
   icon_pack: fas
   link: "mailto:divya.shah@iit.it" #'#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/divyashah_2801
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/divyashah_2801
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -83,7 +83,7 @@ user_groups:
 - Visitors
 
 # {{% alert note %}}
-# Attended the IFToMM [ROBOzen 2020]({{<ref "../../talk/robozen-2020/" >}}) in Bolzano, Italy.
+# Conference Publication for [IEEE/ASME AIM 2020]({{<ref "../../publication/constant-2020/" >}}) regarding the collaborative work with IRIM Lab @ KOREATECH.
 # {{% /alert %}}
 
 ---
@@ -96,14 +96,14 @@ Currently, I am a third year PhD student with [iCub Tech](https://www.iit.it/res
 
 My detailed CV is available  {{% staticref "files/cv.pdf" "newtab" %}} here{{% /staticref %}}.
 
-In my spare time, I learn and practice swing dancing!
+My leisure time interests are, to learn and practice swing dancing and playing ukulele!
 
 ---
 
 ## What's new:
 
 {{% alert note %}}
-Conference Publication for [IEEE/ASME AIM 2020]({{<ref "../../publication/constant-2020/" >}}) regarding the collaborative work with IRIM Lab @ KOREATECH.
+Finishing up my doctoral dissertation for the  [PhD Project]({{<ref "../../project/phd-project/" >}}) titled *Design of Wrist and Forearm Mechanisms for Enhanced Humanoid Dexterity*.
 {{% /alert %}}
 
 ---
