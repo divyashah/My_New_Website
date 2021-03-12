@@ -25,7 +25,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "2dpom_demo1.mp4"
+url_video: "2dpom_demo.mp4"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -44,6 +44,10 @@ This research project is a part of the Ph.D. with [Dipartimento di Informatica, 
 - To adapt and analyze some of the most promising architectures from the literature.
 - To propose a novel kinematic design for the wrist with enhanced dexterity.
 - To test and develop the proposed mechanism.
+
+{{% alert note %}}
+More details on doctoral dissertation to follow...
+{{% /alert %}}
 
 ---
 

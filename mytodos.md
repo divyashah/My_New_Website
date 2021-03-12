@@ -2,6 +2,9 @@
 - [ ] **update the template/theme files**
 - [ ] **add more details on the current phd project**
 - [ ] **consider adding transcripts to download**
+- [ ] **add doctoral thesis project** and maybe split into two `phd-project` and `period-abroad`
+- [ ] find out to make old/archived pages redirect to new ones
+- [ ] there are duplicates for download files, like in conference publication as well as conference event ~> combine them
 
 - [ ] for all the download link boxes (poster, slide, pdf, web, etc), add some icons there ...
 - [ ] also ensure correct name for each of the links ...
@@ -46,32 +49,3 @@
 - [x] remove the "Posts" section and put details of summer school in "Events" and period abroad within the project pages respectively
 
 https://townsendcenter.berkeley.edu/blog/personal-academic-webpages-how-tos-and-tips-better-site
-
----
-
-### Wiki to update and deploy site
-
-**To deploy the site locally:**
-
-- Update baseurl in the config file  
-> config/_default/config.toml
-> baseurl = "/"
-
-- In command prompt go the website folder and run hugo server
-> ...\Github\My_New_Website> hugo server
-
-- View the site at http://localhost:1313/
-
-**To deploy the site on github server:**
-
-- Update baseurl in the config file  
-> config/_default/config.toml
-> baseurl = "https://divyashah.github.io/"
-
-- In command prompt go to website folder and run hugo to generate the site
-> ...\Github\My_New_Website> hugo
-
-- Copy site data from public folder to your host repository
-> ..\Github\My_New_Website\public
-
-- View the site at https://divyashah.github.io/
